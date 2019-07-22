@@ -32,15 +32,31 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
-1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+1. If you had to describe semantic HTML to the next cohort of students, what would you say?
 
-2. Name two big differences between ```display: block;``` and ```display: inline;```.
+Semantic HTML is what makes your code easy to understand and follow, not just for you but also for others reading your code.  It includes <p>, <h1>, <footer>, as well as many others to tell exaclty what it is you are writing that code for and exaclty what it should be on your finished project.
+
+2. Describe some differences between ```display: block;``` and ```display: inline;```.
+
+Display: block; will start on its own line and expand to the width of the page. It includes elements such as div, section, and p.  These elements all make up the main information on a page and are seen by users.
+
+Display: inline; will only take up as much space as needed, and fits inside of the block elememts.  Elements such as span, button, and img, are inline elements and are only seen or used for display purposes.
 
 3. What are the 4 areas of the box model?
 
-4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+The 4 areas of the box model are:
+1. content - the information you place on your page. 
+2. padding - the space between your content and border. 
+3. border - the place between your padding and margin.
+4. margin - the space outside your border. 
 
-5. Explain why git is valuable to a team of developers.
+4. While using flexbox, what axis are you using when you use the property: ```align-items: center```?
+
+The cross axis is being used when using align-items: center. 
+
+5. Explain why git is valuable to a team of developers. 
+
+Git is valuable because it allows a team of developers to work together while working on their own parts of a project.  It allows them to share their work with their team members, allowing them to help and use the work done to do their own part of the project.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
