@@ -87,6 +87,12 @@ nav a {
     color: black;
 }
 
+nav a:hover {
+    border: 2px solid black;
+    padding: 5px;
+    background: yellow; 
+}
+
 .topImg {
     margin-bottom: 50px;
 }
@@ -113,6 +119,10 @@ nav a {
 .middle-content h2 {
     padding: 0 2%;
     margin-bottom: 0;
+}
+
+.box:hover {
+    font-size: 20px;
 }
 
 .middle-content .boxes {

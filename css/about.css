@@ -129,6 +129,11 @@ button {
     background: white;
 }
 
+button:hover {
+    background: red;
+    font-size: 20px;
+}
+
 .workTogether {
     margin: 20px;
     font-weight: bold;
