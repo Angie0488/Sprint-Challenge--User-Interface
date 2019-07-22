@@ -87,6 +87,12 @@ nav a {
     color: black;
 }
 
+nav a:hover {
+    border: 2px solid black;
+    padding: 5px;
+    background: lightgray; 
+}
+
 .aboutInfo {
     font-weight: bolder;
     border-bottom: 2px dashed black;
