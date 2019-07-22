@@ -1,0 +1,26 @@
+.content {
+    width: 900px;
+    height: 100%;
+    margin: 0 auto;
+    border: 3px dashed black;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 25px;
+}
